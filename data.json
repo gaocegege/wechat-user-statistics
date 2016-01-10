@@ -1,0 +1,141 @@
+{
+	"type": "serial",
+	"categoryField": "date",
+	"dataDateFormat": "YYYY-MM-DD",
+	"theme": "black",
+	"categoryAxis": {
+		"minPeriod": "MM",
+		"parseDates": true
+	},
+	"chartCursor": {
+		"enabled": true,
+		"categoryBalloonDateFormat": "MMM DD YYYY"
+	},
+	"chartScrollbar": {
+		"enabled": true
+	},
+	"trendLines": [],
+	"graphs": [
+		{
+			"bullet": "square",
+			"id": "AmGraph-2",
+			"title": "微信用户数量",
+			"valueField": "column-2"
+		}
+	],
+	"guides": [],
+	"valueAxes": [
+		{
+			"id": "ValueAxis-1",
+			"title": "用户量"
+		}
+	],
+	"allLabels": [],
+	"balloon": {},
+	"legend": {
+		"enabled": true,
+		"useGraphSettings": true
+	},
+	"titles": [
+		{
+			"bold": true,
+			"id": "Title-1",
+			"size": 15,
+			"text": "微信用户量历史情况图"
+		}
+	],
+	"dataProvider": [
+		{
+			"date": "2011-01-21",
+			"column-2": "21"
+		},
+		{
+			"date": "2011-07-15",
+			"column-2": "12085459"
+		},
+		{
+			"date": "2011-08-16",
+			"column-2": "19821637"
+		},
+		{
+			"date": "2011-09-10",
+			"column-2": "25922859"
+		},
+		{
+			"date": "2011-10-19",
+			"column-2": "36801952"
+		},
+		{
+			"date": "2011-11-03",
+			"column-2": "41226431"
+		},
+		{
+			"date": "2011-11-17",
+			"column-2": "46096076"
+		},
+		{
+			"date": "2011-12-09",
+			"column-2": "53866883"
+		},
+		{
+			"date": "2012-01-23",
+			"column-2": "70388553"
+		},
+		{
+			"date": "2012-02-08",
+			"column-2": "77400097"
+		},
+		{
+			"date": "2012-04-11",
+			"column-2": "106560441"
+		},
+		{
+			"date": "2012-06-11",
+			"column-2": "136062845"
+		},
+		{
+			"date": "2012-06-20",
+			"column-2": "141068710"
+		},
+		{
+			"date": "2012-07-15",
+			"column-2": "156337995"
+		},
+		{
+			"date": "2012-07-25",
+			"column-2": "162287653"
+		},
+		{
+			"date": "2012-09-15",
+			"column-2": "199610576"
+		},
+		{
+			"date": "2013-01-18",
+			"column-2": "305384040"
+		},
+		{
+			"date": "2013-01-27",
+			"column-2": "313141342"
+		},
+		{
+			"date": "2013-06-03",
+			"column-2": "474996645"
+		},
+		{
+			"date": "2013-07-01",
+			"column-2": "514940790"
+		},
+		{
+			"date": "2013-12-31",
+			"column-2": "800604815"
+		},
+		{
+			"date": "2014-07-11",
+			"column-2": "1034822232"
+		},
+		{
+			"date": "2015-09-25",
+			"column-2": "1593484965"
+		}
+	]
+}
